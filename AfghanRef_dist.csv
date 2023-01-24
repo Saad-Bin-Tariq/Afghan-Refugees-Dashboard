@@ -1,0 +1,117 @@
+Province,District,adm_3,No_of_Individuals,Urban,Rural
+KPK,Peshawar,peshawar,308933,233649,75284
+KPK,Nowshera,nowshera,86972,42344,44628
+KPK,Haripur,haripur,82022,25661,56361
+KPK,Kohat,kohat,69962,16272,53690
+KPK,Swabi,swabi,49198,16707,32491
+KPK,Mansehra,mansehra,41375,22247,19128
+KPK,Hangu,hangu,39068,10862,28206
+KPK,Lower Dir,lower dir,34159,6653,27506
+KPK,Mardan,mardan,21930,10215,11715
+KPK,Charsadda,charsadda,17284,8689,8595
+KPK,Abbottabad,abbottabad,14075,14075,0
+KPK,Buner,buner,10100,1132,8968
+KPK,Lakki Marwat,lakki marwat,9085,4430,4655
+KPK,D. I. Khan,d. i. khan,8261,4837,3424
+KPK,Malakand P Area,malakand p area,7561,7443,118
+KPK,Bannu,bannu,6998,5313,1685
+KPK,Chitral,chitral,6231,4435,1796
+KPK,Upper Dir,upper dir,1888,1587,301
+KPK,Swat,swat,1746,1746,0
+KPK,Karak,karak,1417,1417,0
+KPK,Tank,tank,1079,301,778
+KPK,Dir,dir,989,989,0
+KPK,Batagram,batagram,111,111,0
+KPK,T A Adj Bannu,t a adj bannu,13,13,0
+KPK,Kohistan,kohistan,11,11,0
+KPK,Shangla,shangla,3,3,0
+KPK,T A Adj Peshawar,t a adj peshawar,2,2,0
+FATA,Khyber Agency,khyber agency,8185,8185,0
+FATA,S Waziristan Agency,s waziristan agency,2755,2755,0
+FATA,Mohmand Agency,mohmand agency,2443,2443,0
+FATA,N Waziristan Agency,n waziristan agency,300,300,0
+FATA,Bajaur Agency,bajaur agency,224,224,0
+FATA,Kurram Agency,kurram agency,7,7,0
+Northern Areas,Gilgit,gilgit,3,3,0
+Northern Areas,Diamir,diamir,2,2,0
+Sindh,Karachi,karachi,65745,65745,0
+Sindh,Hyderabad,hyderabad,186,186,0
+Sindh,Thatta,thatta,36,36,0
+Sindh,Sanghar,sanghar,32,32,0
+Sindh,Jamshoro,jamshoro,19,19,0
+Sindh,Matiari,matiari,17,17,0
+Sindh,Badin,badin,13,13,0
+Sindh,Kambar Shahdad Kot,kambar shahdad kot,11,11,0
+Sindh,Nawab Shah,nawab shah,11,11,0
+Sindh,Shikarpur,shikarpur,11,11,0
+Sindh,Ghotki,ghotki,8,8,0
+Sindh,Dadu,dadu,6,6,0
+Sindh,Mirpur Khas,mirpur khas,4,4,0
+Sindh,Jacobabad,jacobabad,3,3,0
+Sindh,Khairpur,khairpur,3,3,0
+Sindh,Sukkur,sukkur,3,3,0
+Sindh,Tando Muhammad Khan,tando muhammad khan,3,3,0
+Punjab,Attock,attock,40210,40210,0
+Punjab,Rawalpindi,rawalpindi,34781,34781,0
+Punjab,Mianwali,mianwali,30777,14400,16377
+Punjab,Chakwal,chakwal,23422,23422,0
+Punjab,Lahore,lahore,9524,9524,0
+Punjab,Gujrat,gujrat,7314,7314,0
+Punjab,Sialkot,sialkot,5529,5529,0
+Punjab,Khushab,khushab,4404,4404,0
+Punjab,Jhelum,jhelum,4365,4365,0
+Punjab,Mandi Bahauddin,mandi bahauddin,2066,2066,0
+Punjab,Gujranwala,gujranwala,1632,1632,0
+Punjab,Sargodha,sargodha,1281,1281,0
+Punjab,Bhakkar,bhakkar,1016,1016,0
+Punjab,Faisalabad,faisalabad,612,612,0
+Punjab,Rahim Yar Khan,rahim yar khan,370,370,0
+Punjab,Sheikhupura,sheikhupura,217,217,0
+Punjab,Hafizabad,hafizabad,133,133,0
+Punjab,Kasur,kasur,120,120,0
+Punjab,Jhang,jhang,98,98,0
+Punjab,Leiah,leiah,87,87,0
+Punjab,Rajanpur,rajanpur,79,79,0
+Punjab,Narowal,narowal,70,70,0
+Punjab,Bahawalpur,bahawalpur,49,49,0
+Punjab,Pakpattan,pakpattan,46,46,0
+Punjab,Multan,multan,40,40,0
+Punjab,Dera Ghazi Khan,dera ghazi khan,37,37,0
+Punjab,Vehari,vehari,33,33,0
+Punjab,Khanewal,khanewal,19,19,0
+Punjab,Muzaffargarh,muzaffargarh,14,14,0
+Punjab,Sahiwal,sahiwal,3,3,0
+Punjab,Nankana Sahib,nankana sahib,2,2,0
+Punjab,Okara,okara,1,1,0
+Islamabad,Islamabad,islamabad,35003,35003,0
+Balochistan,Quetta,quetta,189444,183424,6020
+Balochistan,Pishin,pishin,54764,31090,23674
+Balochistan,Chagai,chagai,28908,27898,1010
+Balochistan,Killa Saifullah,killa saifullah,18846,12475,6371
+Balochistan,Loralai,loralai,18839,7149,11690
+Balochistan,Killa Abdullah,killa abdullah,10765,10765,0
+Balochistan,Mastung,mastung,2072,2072,0
+Balochistan,Zhob,zhob,1497,1497,0
+Balochistan,Kalat,kalat,1098,1098,0
+Balochistan,Nushki,nushki,376,376,0
+Balochistan,Khuzdar,khuzdar,217,217,0
+Balochistan,Bolan,bolan,123,123,0
+Balochistan,Panjgur,panjgur,88,88,0
+Balochistan,Ziarat,ziarat,54,54,0
+Balochistan,Lasbela,lasbela,52,52,0
+Balochistan,Musakhel,musakhel,23,23,0
+Balochistan,Sibbi,sibbi,22,22,0
+Balochistan,Dera Bugti,dera bugti,17,17,0
+Balochistan,Kharan,kharan,10,10,0
+Balochistan,Nasirabad,nasirabad,10,10,0
+Balochistan,Barkhan,barkhan,8,8,0
+Balochistan,Sherani,sherani,7,7,0
+Balochistan,Washuk,washuk,4,4,0
+Balochistan,Jaffarabad,jaffarabad,3,3,0
+Azad Kashmir,Mirpur,mirpur,2132,2132,0
+Azad Kashmir,Muzaffarabad,muzaffarabad,849,849,0
+Azad Kashmir,Poonch,poonch,544,544,0
+Azad Kashmir,Kotli,kotli,352,352,0
+Azad Kashmir,Bagh,bagh,291,291,0
+Azad Kashmir,Bhimber,bhimber,158,158,0
+Azad Kashmir,Sudhnoti,sudhnoti,15,15,0
